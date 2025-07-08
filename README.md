@@ -1,5 +1,19 @@
 # SmartConnect 6G
 
+## 📄 IEEE-Style Literature Review
+
+[📥 Download Paper](./SmartConnect6G_LR.pdf)  
+A comprehensive literature review comparing SmartConnect 6G with prior Q-learning and deep RL-based approaches for Random Access optimization in mMTC and 6G systems.
+
+📌 Key Results:
+- ✅ **Collision Rate**: Reduced from 5.0 to 0.5 (↓90%)
+- ⚡ **Access Delay**: Reduced from 10 ms to 0.8 ms (↓92%)
+- 📶 **Average SINR**: Improved from 10 dB to 15 dB (↑50%)
+
+The review cites 8+ IEEE/academic works, and validates SmartConnect 6G through MATLAB simulations. Format: IEEE conference-style (2 pages, references, figures, metrics).
+
+---
+
 # 🔗 SmartConnect 6G – Optimizing M2M Communication in Future IoT Networks
 
 **SmartConnect 6G** is an AI-driven optimization framework that enhances the **Random Access (RA)** procedure in **LTE-Advanced (LTE-A)** networks using **Q-learning**, specifically designed for dense **Machine-to-Machine (M2M)** and **IoT** environments. The project addresses critical challenges in traditional RA such as high collision rates and access delays, paving the way for **ultra-reliable, low-latency communication** in emerging **6G networks**.
