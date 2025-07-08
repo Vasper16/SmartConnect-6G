@@ -2,8 +2,11 @@
 
 ## 📄 IEEE-Style Literature Review
 
-[📥 Download Paper](./SmartConnect6G_LR.pdf)  
-A comprehensive literature review comparing SmartConnect 6G with prior Q-learning and deep RL-based approaches for Random Access optimization in mMTC and 6G systems.
+[📥 Download Paper (PDF)](./SmartConnect6G_LR.pdf)  
+📖 [Read on ResearchGate](https://doi.org/10.13140/RG.2.2.19603.39203)  
+🗓️ Published: July 2025 | 📑 DOI: 10.13140/RG.2.2.19603.39203 | License: CC BY 4.0  
+
+A comprehensive IEEE-style literature review comparing SmartConnect 6G with prior Q-learning and deep RL-based approaches for Random Access optimization in mMTC and 6G systems.
 
 📌 Key Results:
 - ✅ **Collision Rate**: Reduced from 5.0 to 0.5 (↓90%)
@@ -52,7 +55,3 @@ This system implements **adaptive preamble selection** using reinforcement learn
 - Python (planned for deep RL integration)
 - NumPy (for future Python extension)
 - Signal Processing & Simulation
-
-
-
-
